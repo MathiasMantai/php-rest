@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS api_keys
+{
+    rowid INT AUTO_INCREMENT,
+    PRIMARY KEY(rowid),
+    key VARCHAR(20) NOT NULL,
+    tms TIMESTAMP ON UPDATE CURRENT_TIMESTAMP(),
+    security_level INT NOT NULL
+}

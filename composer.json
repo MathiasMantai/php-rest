@@ -1,0 +1,16 @@
+{
+    "name": "mathiasmantai/rest",
+    "description": "A framework for a rest api",
+    "autoload": {
+        "psr-4": {
+            "Mathiasmantai\\Rest\\": "class/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mathias Mantai",
+            "email": "mathias.mantai@gmail.com"
+        }
+    ],
+    "require": {}
+}
