@@ -1,5 +1,7 @@
 <?php
 
+namespace Mmantai\Rest;
+
 class Router
 {
 
@@ -17,6 +19,6 @@ class Router
 
     public function getRoute($route)
     {
-        
+
     }
 }

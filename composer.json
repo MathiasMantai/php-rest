@@ -1,9 +1,9 @@
 {
-    "name": "mathiasmantai/rest",
+    "name": "mmantai/rest",
     "description": "A framework for a rest api",
     "autoload": {
         "psr-4": {
-            "Mathiasmantai\\Rest\\": "class/"
+            "Mmantai\\Rest\\": "class/"
         }
     },
     "authors": [

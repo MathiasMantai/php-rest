@@ -1,6 +1,6 @@
 <?php
 
-namespace Mathiasmantai\Rest;
+namespace Mmantai\Rest;
 //use my dbcore package
 //use my querybuilder
 

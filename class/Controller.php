@@ -5,7 +5,7 @@ namespace Mathiasmantai\Rest;
 /**
  * router for rest api
  */
-class Controller
+abstract class Controller
 {
     /**
      * return 404 not found header, when calling a method that doesn't exist
